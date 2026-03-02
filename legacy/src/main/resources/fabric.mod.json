@@ -10,7 +10,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "me.lakshay.verifierclient.VerifierClient"
+      "me.lakshay.verifierclient.VerifierClientLegacy"
     ]
   },
   "depends": {
